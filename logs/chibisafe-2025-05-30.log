@@ -1,0 +1,63 @@
+{"level":30,"time":1748563200055,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748563200259,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748566800065,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748566800432,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748570400100,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748570400259,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748577113803,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748577114192,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748581049120,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748581050207,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748595533120,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748595533174,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748595533255,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748595533270,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748595533476,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748595533478,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748595533479,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748595533484,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748602793273,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748602793320,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748602793644,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748602793651,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748602800086,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748602800499,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748616221902,"pid":172,"msg":"Checking for updates..."}
+{"level":50,"time":1748616222193,"pid":172,"msg":"Unhandled Rejection:"}
+{"level":50,"time":1748616222194,"pid":172,"err":{"type":"TypeError","message":"fetch failed: getaddrinfo ENOTFOUND api.github.com","stack":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:12502:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async checkForUpdates (file:///app/packages/backend/dist/utils/UpdateCheck.js:38:17)\ncaused by: Error: getaddrinfo ENOTFOUND api.github.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"},"msg":"fetch failed"}
+{"level":30,"time":1748616222412,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748616222840,"pid":172,"msg":"Checking for updates..."}
+{"level":50,"time":1748616222852,"pid":172,"msg":"Unhandled Rejection:"}
+{"level":50,"time":1748616222853,"pid":172,"err":{"type":"TypeError","message":"fetch failed: getaddrinfo ENOTFOUND api.github.com","stack":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:12502:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async checkForUpdates (file:///app/packages/backend/dist/utils/UpdateCheck.js:38:17)\ncaused by: Error: getaddrinfo ENOTFOUND api.github.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"},"msg":"fetch failed"}
+{"level":50,"time":1748616223087,"pid":172,"msg":"Unhandled Rejection:"}
+{"level":50,"time":1748616223088,"pid":172,"err":{"type":"TypeError","message":"fetch failed: getaddrinfo ENOTFOUND api.github.com","stack":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:12502:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async checkForUpdates (file:///app/packages/backend/dist/utils/UpdateCheck.js:38:17)\ncaused by: Error: getaddrinfo ENOTFOUND api.github.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"},"msg":"fetch failed"}
+{"level":30,"time":1748617081350,"pid":172,"msg":"Running Chibisafe v6.4.2"}
+{"level":40,"time":1748617081796,"pid":172,"msg":"Found route without URL or METHOD - dist/routes/admin/files/Unzip.js"}
+{"level":40,"time":1748617082009,"pid":172,"msg":"Found route without URL or METHOD - dist/routes/album/ZipAlbum.js"}
+{"level":30,"time":1748617082258,"pid":172,"msg":"Server listening at http://0.0.0.0:8000"}
+{"level":30,"time":1748617083310,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748617200048,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748617200411,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748624466111,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748624466149,"pid":172,"msg":"Checking for updates..."}
+{"level":50,"time":1748624466303,"pid":172,"msg":"Unhandled Rejection:"}
+{"level":50,"time":1748624466315,"pid":172,"err":{"type":"TypeError","message":"fetch failed: getaddrinfo ENOTFOUND api.github.com","stack":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:12502:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async checkForUpdates (file:///app/packages/backend/dist/utils/UpdateCheck.js:38:17)\ncaused by: Error: getaddrinfo ENOTFOUND api.github.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"},"msg":"fetch failed"}
+{"level":50,"time":1748624466318,"pid":172,"msg":"Unhandled Rejection:"}
+{"level":50,"time":1748624466319,"pid":172,"err":{"type":"TypeError","message":"fetch failed: getaddrinfo ENOTFOUND api.github.com","stack":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:12502:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async checkForUpdates (file:///app/packages/backend/dist/utils/UpdateCheck.js:38:17)\ncaused by: Error: getaddrinfo ENOTFOUND api.github.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"},"msg":"fetch failed"}
+{"level":30,"time":1748628127419,"pid":172,"msg":"Checking for updates..."}
+{"level":50,"time":1748628127438,"pid":172,"msg":"Unhandled Rejection:"}
+{"level":50,"time":1748628127439,"pid":172,"err":{"type":"TypeError","message":"fetch failed: getaddrinfo ENOTFOUND api.github.com","stack":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:12502:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async checkForUpdates (file:///app/packages/backend/dist/utils/UpdateCheck.js:38:17)\ncaused by: Error: getaddrinfo ENOTFOUND api.github.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"},"msg":"fetch failed"}
+{"level":30,"time":1748631601049,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748631601375,"pid":172,"msg":"Update available: 6.4.2 -> 6.5.4"}
+{"level":30,"time":1748635567055,"pid":172,"msg":"Checking for updates..."}
+{"level":50,"time":1748635572067,"pid":172,"msg":"Unhandled Rejection:"}
+{"level":50,"time":1748635572068,"pid":172,"err":{"type":"TypeError","message":"fetch failed: getaddrinfo EAI_AGAIN api.github.com","stack":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:12502:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async checkForUpdates (file:///app/packages/backend/dist/utils/UpdateCheck.js:38:17)\ncaused by: Error: getaddrinfo EAI_AGAIN api.github.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"},"msg":"fetch failed"}
+{"level":30,"time":1748641656330,"pid":172,"msg":"Checking for updates..."}
+{"level":50,"time":1748641656408,"pid":172,"msg":"Unhandled Rejection:"}
+{"level":50,"time":1748641656409,"pid":172,"err":{"type":"TypeError","message":"fetch failed: getaddrinfo ENOTFOUND api.github.com","stack":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:12502:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async checkForUpdates (file:///app/packages/backend/dist/utils/UpdateCheck.js:38:17)\ncaused by: Error: getaddrinfo ENOTFOUND api.github.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"},"msg":"fetch failed"}
+{"level":30,"time":1748646563394,"pid":172,"msg":"Checking for updates..."}
+{"level":30,"time":1748646563420,"pid":172,"msg":"Checking for updates..."}
+{"level":50,"time":1748646563427,"pid":172,"msg":"Unhandled Rejection:"}
+{"level":50,"time":1748646563428,"pid":172,"err":{"type":"TypeError","message":"fetch failed: getaddrinfo ENOTFOUND api.github.com","stack":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:12502:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async checkForUpdates (file:///app/packages/backend/dist/utils/UpdateCheck.js:38:17)\ncaused by: Error: getaddrinfo ENOTFOUND api.github.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"},"msg":"fetch failed"}
+{"level":50,"time":1748646563449,"pid":172,"msg":"Unhandled Rejection:"}
+{"level":50,"time":1748646563450,"pid":172,"err":{"type":"TypeError","message":"fetch failed: getaddrinfo ENOTFOUND api.github.com","stack":"TypeError: fetch failed\n    at node:internal/deps/undici/undici:12502:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async checkForUpdates (file:///app/packages/backend/dist/utils/UpdateCheck.js:38:17)\ncaused by: Error: getaddrinfo ENOTFOUND api.github.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"},"msg":"fetch failed"}

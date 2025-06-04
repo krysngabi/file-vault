@@ -1,0 +1,61 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "/app/logs/chibisafe-audit.json",
+    "hashType": "md5",
+    "extension": ".log",
+    "files": [
+        {
+            "date": 1748219120901,
+            "name": "/app/logs/chibisafe-2025-05-26.log",
+            "hash": "ddd0b033cbb29a1705b9805d908fc834"
+        },
+        {
+            "date": 1748304000127,
+            "name": "/app/logs/chibisafe-2025-05-27.log",
+            "hash": "8328a1c9f5b3ff3b600af282dcc80a88"
+        },
+        {
+            "date": 1748390400056,
+            "name": "/app/logs/chibisafe-2025-05-28.log",
+            "hash": "48dab6f56fabb42a036a93601fa54339"
+        },
+        {
+            "date": 1748480204801,
+            "name": "/app/logs/chibisafe-2025-05-29.log",
+            "hash": "f4e0619ab2df535d520dd6263935f3e5"
+        },
+        {
+            "date": 1748563200057,
+            "name": "/app/logs/chibisafe-2025-05-30.log",
+            "hash": "3b29d7621e5f35acf68b02dff9d956bb"
+        },
+        {
+            "date": 1748649600023,
+            "name": "/app/logs/chibisafe-2025-05-31.log",
+            "hash": "b8acee565e4b0db2734c00741e2f2356"
+        },
+        {
+            "date": 1748736000142,
+            "name": "/app/logs/chibisafe-2025-06-01.log",
+            "hash": "6b311e1bd910b5bd272a78ed1c70784e"
+        },
+        {
+            "date": 1748824058808,
+            "name": "/app/logs/chibisafe-2025-06-02.log",
+            "hash": "e7b8d96995d180550891059f9b5e6f35"
+        },
+        {
+            "date": 1748912010551,
+            "name": "/app/logs/chibisafe-2025-06-03.log",
+            "hash": "42b5884bfd7b2b5bd207b35bc683a388"
+        },
+        {
+            "date": 1748995810250,
+            "name": "/app/logs/chibisafe-2025-06-04.log",
+            "hash": "c41ece17c4a68ae960409925f4163ae5"
+        }
+    ]
+}
